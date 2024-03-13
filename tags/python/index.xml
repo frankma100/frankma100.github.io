@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on 熊大部落呦</title>
-    <link>https://frankma100.github.io/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on 熊大部落呦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 13 Mar 2024 14:37:47 +0800</lastBuildDate>
-    <atom:link href="https://frankma100.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>熊大的第一篇文章</title>
-      <link>https://frankma100.github.io/blog/test/</link>
+      <link>http://localhost:1313/blog/test/</link>
       <pubDate>Wed, 13 Mar 2024 14:37:47 +0800</pubDate>
-      <guid>https://frankma100.github.io/blog/test/</guid>
+      <guid>http://localhost:1313/blog/test/</guid>
       <description>Hello World&#xA;我是熊大&#xA;一級標題 二級標題 六級標題 我是熊大，我喜歡睡覺&#xA;熊大&#xA;how what Hello</description>
     </item>
   </channel>
