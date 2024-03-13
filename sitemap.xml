@@ -44,7 +44,13 @@
     <loc>http://localhost:1313/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/bear/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/go-language/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/good/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post-13/</loc>
