@@ -16,6 +16,13 @@
       <description>Hello World&#xA;我是熊大&#xA;一級標題 二級標題 六級標題 我是熊大，我喜歡睡覺&#xA;熊大&#xA;how what Hello</description>
     </item>
     <item>
+      <title>熊大的第二篇文章</title>
+      <link>http://localhost:1313/blog/secondtest/</link>
+      <pubDate>Wed, 13 Mar 2024 14:37:47 +0800</pubDate>
+      <guid>http://localhost:1313/blog/secondtest/</guid>
+      <description>Hello World&#xA;我是熊大</description>
+    </item>
+    <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>http://localhost:1313/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
