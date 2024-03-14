@@ -20,7 +20,7 @@
       <link>http://localhost:1313/blog/secondtest/</link>
       <pubDate>Wed, 13 Mar 2024 14:37:47 +0800</pubDate>
       <guid>http://localhost:1313/blog/secondtest/</guid>
-      <description>Hello World&#xA;我是熊大</description>
+      <description>Hello World&#xA;我是熊大&#xA;我是熊大</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
